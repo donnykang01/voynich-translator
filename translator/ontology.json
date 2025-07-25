@@ -1,0 +1,65 @@
+{
+  "plant": [
+    "root",
+    "flower",
+    "seed",
+    "growth",
+    "leaf"
+  ],
+  "sky": [
+    "sun",
+    "moon",
+    "star",
+    "cloud",
+    "light"
+  ],
+  "water": [
+    "drop",
+    "flow",
+    "rain",
+    "river",
+    "ocean"
+  ],
+  "life": [
+    "birth",
+    "body",
+    "spirit",
+    "blood",
+    "mind"
+  ],
+  "energy": [
+    "pulse",
+    "heat",
+    "fire",
+    "spark",
+    "motion"
+  ],
+  "material": [
+    "stone",
+    "clay",
+    "sand",
+    "metal",
+    "wood"
+  ],
+  "thought": [
+    "vision",
+    "idea",
+    "dream",
+    "memory",
+    "sign"
+  ],
+  "space": [
+    "gate",
+    "path",
+    "pillar",
+    "circle",
+    "field"
+  ],
+  "time": [
+    "day",
+    "night",
+    "season",
+    "cycle",
+    "age"
+  ]
+}

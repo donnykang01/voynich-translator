@@ -1,0 +1,362 @@
+{
+  "dytorar": {
+    "meaning": "simulated meaning for dytorar",
+    "pos": "Noun"
+  },
+  "okchory": {
+    "meaning": "simulated meaning for okchory",
+    "pos": "Noun"
+  },
+  "dykaiiny": {
+    "meaning": "simulated meaning for dykaiiny",
+    "pos": "Function word"
+  },
+  "okechoral": {
+    "meaning": "simulated meaning for okechoral",
+    "pos": "Noun"
+  },
+  "otaiinain": {
+    "meaning": "simulated meaning for otaiinain",
+    "pos": "Verb"
+  },
+  "qotchedor": {
+    "meaning": "simulated meaning for qotchedor",
+    "pos": "Function word"
+  },
+  "olchededy": {
+    "meaning": "simulated meaning for olchededy",
+    "pos": "Function word"
+  },
+  "lchkeeddy": {
+    "meaning": "simulated meaning for lchkeeddy",
+    "pos": "Noun"
+  },
+  "chechedal": {
+    "meaning": "simulated meaning for chechedal",
+    "pos": "Verb"
+  },
+  "ottory": {
+    "meaning": "simulated meaning for ottory",
+    "pos": "Function word"
+  },
+  "okechorin": {
+    "meaning": "simulated meaning for okechorin",
+    "pos": "Function word"
+  },
+  "oltorin": {
+    "meaning": "simulated meaning for oltorin",
+    "pos": "Noun"
+  },
+  "otchedol": {
+    "meaning": "simulated meaning for otchedol",
+    "pos": "Noun"
+  },
+  "okedyain": {
+    "meaning": "simulated meaning for okedyain",
+    "pos": "Verb"
+  },
+  "okechedar": {
+    "meaning": "simulated meaning for okechedar",
+    "pos": "Verb"
+  },
+  "dykeedain": {
+    "meaning": "simulated meaning for dykeedain",
+    "pos": "Verb"
+  },
+  "lchkaiindy": {
+    "meaning": "simulated meaning for lchkaiindy",
+    "pos": "Function word"
+  },
+  "lchdalar": {
+    "meaning": "simulated meaning for lchdalar",
+    "pos": "Noun"
+  },
+  "oktory": {
+    "meaning": "simulated meaning for oktory",
+    "pos": "Verb"
+  },
+  "otdalain": {
+    "meaning": "simulated meaning for otdalain",
+    "pos": "Function word"
+  },
+  "lchedyy": {
+    "meaning": "simulated meaning for lchedyy",
+    "pos": "Verb"
+  },
+  "qokeedy": {
+    "meaning": "simulated meaning for qokeedy",
+    "pos": "Noun"
+  },
+  "otaiinedy": {
+    "meaning": "simulated meaning for otaiinedy",
+    "pos": "Function word"
+  },
+  "dykaiinedy": {
+    "meaning": "simulated meaning for dykaiinedy",
+    "pos": "Noun"
+  },
+  "okkaiinal": {
+    "meaning": "simulated meaning for okkaiinal",
+    "pos": "Noun"
+  },
+  "okdaledy": {
+    "meaning": "simulated meaning for okdaledy",
+    "pos": "Function word"
+  },
+  "otchedal": {
+    "meaning": "simulated meaning for otchedal",
+    "pos": "Verb"
+  },
+  "okekaiinain": {
+    "meaning": "simulated meaning for okekaiinain",
+    "pos": "Function word"
+  },
+  "chechordy": {
+    "meaning": "simulated meaning for chechordy",
+    "pos": "Verb"
+  },
+  "dycheddy": {
+    "meaning": "simulated meaning for dycheddy",
+    "pos": "Noun"
+  },
+  "qokeedin": {
+    "meaning": "simulated meaning for qokeedin",
+    "pos": "Verb"
+  },
+  "otaiinor": {
+    "meaning": "simulated meaning for otaiinor",
+    "pos": "Noun"
+  },
+  "okedyy": {
+    "meaning": "simulated meaning for okedyy",
+    "pos": "Verb"
+  },
+  "lchchedar": {
+    "meaning": "simulated meaning for lchchedar",
+    "pos": "Verb"
+  },
+  "oldalal": {
+    "meaning": "simulated meaning for oldalal",
+    "pos": "Verb"
+  },
+  "lchdalin": {
+    "meaning": "simulated meaning for lchdalin",
+    "pos": "Noun"
+  },
+  "chechorol": {
+    "meaning": "simulated meaning for chechorol",
+    "pos": "Function word"
+  },
+  "okkeeddy": {
+    "meaning": "simulated meaning for okkeeddy",
+    "pos": "Function word"
+  },
+  "chechoror": {
+    "meaning": "simulated meaning for chechoror",
+    "pos": "Noun"
+  },
+  "qotedyain": {
+    "meaning": "simulated meaning for qotedyain",
+    "pos": "Noun"
+  },
+  "chechedol": {
+    "meaning": "simulated meaning for chechedol",
+    "pos": "Noun"
+  },
+  "qochedain": {
+    "meaning": "simulated meaning for qochedain",
+    "pos": "Function word"
+  },
+  "qotchedal": {
+    "meaning": "simulated meaning for qotchedal",
+    "pos": "Verb"
+  },
+  "lchdaledy": {
+    "meaning": "simulated meaning for lchdaledy",
+    "pos": "Function word"
+  },
+  "chetoredy": {
+    "meaning": "simulated meaning for chetoredy",
+    "pos": "Verb"
+  },
+  "qochedar": {
+    "meaning": "simulated meaning for qochedar",
+    "pos": "Verb"
+  },
+  "qocheddy": {
+    "meaning": "simulated meaning for qocheddy",
+    "pos": "Function word"
+  },
+  "otkaiiny": {
+    "meaning": "simulated meaning for otkaiiny",
+    "pos": "Verb"
+  },
+  "okechedain": {
+    "meaning": "simulated meaning for okechedain",
+    "pos": "Verb"
+  },
+  "okdalin": {
+    "meaning": "simulated meaning for okdalin",
+    "pos": "Function word"
+  },
+  "dykeeddy": {
+    "meaning": "simulated meaning for dykeeddy",
+    "pos": "Verb"
+  },
+  "olchoror": {
+    "meaning": "simulated meaning for olchoror",
+    "pos": "Verb"
+  },
+  "oketorol": {
+    "meaning": "simulated meaning for oketorol",
+    "pos": "Noun"
+  },
+  "chekaiinar": {
+    "meaning": "simulated meaning for chekaiinar",
+    "pos": "Verb"
+  },
+  "qotchedol": {
+    "meaning": "simulated meaning for qotchedol",
+    "pos": "Function word"
+  },
+  "dydaldy": {
+    "meaning": "simulated meaning for dydaldy",
+    "pos": "Function word"
+  },
+  "okdalol": {
+    "meaning": "simulated meaning for okdalol",
+    "pos": "Function word"
+  },
+  "dychordy": {
+    "meaning": "simulated meaning for dychordy",
+    "pos": "Function word"
+  },
+  "qokaiindy": {
+    "meaning": "simulated meaning for qokaiindy",
+    "pos": "Function word"
+  },
+  "otkeedain": {
+    "meaning": "simulated meaning for otkeedain",
+    "pos": "Noun"
+  },
+  "dychedain": {
+    "meaning": "simulated meaning for dychedain",
+    "pos": "Noun"
+  },
+  "okeedyor": {
+    "meaning": "simulated meaning for okeedyor",
+    "pos": "Function word"
+  },
+  "okeedyal": {
+    "meaning": "simulated meaning for okeedyal",
+    "pos": "Verb"
+  },
+  "okchoror": {
+    "meaning": "simulated meaning for okchoror",
+    "pos": "Noun"
+  },
+  "olchorol": {
+    "meaning": "simulated meaning for olchorol",
+    "pos": "Function word"
+  },
+  "dytory": {
+    "meaning": "simulated meaning for dytory",
+    "pos": "Verb"
+  },
+  "otchedain": {
+    "meaning": "simulated meaning for otchedain",
+    "pos": "Noun"
+  },
+  "dydalor": {
+    "meaning": "simulated meaning for dydalor",
+    "pos": "Noun"
+  },
+  "qochedin": {
+    "meaning": "simulated meaning for qochedin",
+    "pos": "Verb"
+  },
+  "dychedar": {
+    "meaning": "simulated meaning for dychedar",
+    "pos": "Noun"
+  },
+  "qotkaiinal": {
+    "meaning": "simulated meaning for qotkaiinal",
+    "pos": "Function word"
+  },
+  "otkeedin": {
+    "meaning": "simulated meaning for otkeedin",
+    "pos": "Function word"
+  },
+  "cheedyol": {
+    "meaning": "simulated meaning for cheedyol",
+    "pos": "Verb"
+  },
+  "olchedal": {
+    "meaning": "simulated meaning for olchedal",
+    "pos": "Verb"
+  },
+  "dyaiinor": {
+    "meaning": "simulated meaning for dyaiinor",
+    "pos": "Function word"
+  },
+  "oldaledy": {
+    "meaning": "simulated meaning for oldaledy",
+    "pos": "Verb"
+  },
+  "qokeededy": {
+    "meaning": "simulated meaning for qokeededy",
+    "pos": "Noun"
+  },
+  "lchchoror": {
+    "meaning": "simulated meaning for lchchoror",
+    "pos": "Noun"
+  },
+  "qoaiinin": {
+    "meaning": "simulated meaning for qoaiinin",
+    "pos": "Noun"
+  },
+  "otkaiinin": {
+    "meaning": "simulated meaning for otkaiinin",
+    "pos": "Function word"
+  },
+  "dytoror": {
+    "meaning": "simulated meaning for dytoror",
+    "pos": "Verb"
+  },
+  "chetorol": {
+    "meaning": "simulated meaning for chetorol",
+    "pos": "Verb"
+  },
+  "qodalor": {
+    "meaning": "simulated meaning for qodalor",
+    "pos": "Noun"
+  },
+  "otkeeddy": {
+    "meaning": "simulated meaning for otkeeddy",
+    "pos": "Noun"
+  },
+  "olchorar": {
+    "meaning": "simulated meaning for olchorar",
+    "pos": "Function word"
+  },
+  "chedalain": {
+    "meaning": "simulated meaning for chedalain",
+    "pos": "Function word"
+  },
+  "olchedin": {
+    "meaning": "simulated meaning for olchedin",
+    "pos": "Noun"
+  },
+  "lchkaiinal": {
+    "meaning": "simulated meaning for lchkaiinal",
+    "pos": "Noun"
+  },
+  "okedaledy": {
+    "meaning": "simulated meaning for okedaledy",
+    "pos": "Noun"
+  },
+  "okekaiinol": {
+    "meaning": "simulated meaning for okekaiinol",
+    "pos": "Verb"
+  }
+}

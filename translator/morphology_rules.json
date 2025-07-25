@@ -1,0 +1,79 @@
+{
+  "al": {
+    "associated_meanings": [
+      "body",
+      "moon",
+      "day",
+      "metal",
+      "root"
+    ],
+    "semantic_group": "inferred"
+  },
+  "ol": {
+    "associated_meanings": [
+      "blood",
+      "motion",
+      "wood",
+      "drop",
+      "season"
+    ],
+    "semantic_group": "inferred"
+  },
+  "dy": {
+    "associated_meanings": [
+      "night",
+      "leaf",
+      "stone",
+      "star",
+      "clay"
+    ],
+    "semantic_group": "inferred"
+  },
+  "or": {
+    "associated_meanings": [
+      "growth",
+      "flower",
+      "sun",
+      "root",
+      "blood"
+    ],
+    "semantic_group": "inferred"
+  },
+  "ain": {
+    "associated_meanings": [
+      "day",
+      "flow",
+      "sun",
+      "root",
+      "blood"
+    ],
+    "semantic_group": "inferred"
+  },
+  "ar": {
+    "associated_meanings": [
+      "moon",
+      "gate",
+      "vision",
+      "cloud",
+      "drop"
+    ],
+    "semantic_group": "inferred"
+  },
+  "aiin": {
+    "associated_meanings": [
+      "blood",
+      "cycle"
+    ],
+    "semantic_group": "inferred"
+  },
+  "y": {
+    "associated_meanings": [
+      "pulse",
+      "star",
+      "rain",
+      "moon",
+      "mind"
+    ],
+    "semantic_group": "inferred"
+  }
+}

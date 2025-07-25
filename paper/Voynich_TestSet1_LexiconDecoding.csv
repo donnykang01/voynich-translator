@@ -1,0 +1,6 @@
+Test ID,Voynich Word,Task,Expected Answer,Semantic Domain
+T1-001,qokeedy,Decode using the dictionary.,to cause change,Transformation
+T1-002,chedal,Decode using the dictionary.,vessel / container,Tool / Vessel
+T1-003,okeedy,Decode using the dictionary.,to be released / flow out,Flow / Discharge
+T1-004,choraiin,Decode using the dictionary.,transformed state / intensified entity,Amplified Result
+T1-005,qokaiin,Decode using the dictionary.,changed entity / subject,Result / Entity
